@@ -1,0 +1,267 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+    <head>
+        <meta charset="utf-8"/>
+        <meta name="generator" content="pdf2htmlEX"/>
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"/>
+        <link rel="stylesheet" href="//file.mukewang.com/resource/base.min.css"/>
+        <link rel="stylesheet" href="//file.mukewang.com/resource/fancy.min.css"/>
+        <link rel="stylesheet" href="//file.mukewang.com/resource/408a617f4db618be8a6fd906d2926ac1/f30fd550f64e3b964e37c2e5b5288e55.css"/>
+        <script src="//file.mukewang.com/resource/compatibility.min.js"></script>
+        <script src="//file.mukewang.com/resource/pdf2htmlEX.min.js"></script>
+        <script>
+            try {
+                pdf2htmlEX.defaultViewer = new pdf2htmlEX.Viewer({});
+            } catch (e) {}
+        </script>
+        <title>慕课网-学习资料预览</title>
+        <script src="//file.mukewang.com/resource/index.min.pc.js"></script>
+    </head>
+    <body oncopy="return false" oncut="return false;" onselectstart="return false">
+        <div id="sidebar">
+            <div id="outline"></div>
+        </div>
+        <div id="page-container">
+            <div id="pf1" class="pf w0 h0" data-page-no="1">
+                <div class="pc pc1 w0 h0">
+                    <img alt="慕课网" class="bi x0 y0 w0 h0" alt="" src="//file.mukewang.com/resource/408a617f4db618be8a6fd906d2926ac1/bg1.jpg"/>
+                    <div class="t m0 x1 h1 y1 ff1 fs0 fc0 sc0 ls0 ws0">
+                        智能合约的<span class="_ _0"></span>
+                        性质与机制<span class="_ _1"></span>
+                        Pr<span class="_ _0"></span>
+                        oduced By A<span class="_ _0"></span>
+                        dams
+                    </div>
+                    <div class="t m0 x2 h2 y2 ff2 fs1 fc1 sc0 ls0 ws0">web3根基初识-智能合约</div>
+                    <div class="t m0 x3 h3 y3 ff2 fs2 fc2 sc0 ls0 ws0">性质与机制</div>
+                </div>
+                <div class="pi" data-data='{"ctm":[1.422222,0.000000,0.000000,1.422222,0.000000,0.000000]}'></div>
+            </div>
+            <div id="pf2" class="pf w0 h0" data-page-no="2">
+                <div class="pc pc2 w0 h0">
+                    <img alt="慕课网" class="bi x0 y0 w0 h0" alt="" src="//file.mukewang.com/resource/408a617f4db618be8a6fd906d2926ac1/bg2.jpg"/>
+                    <div class="t m0 x4 h1 y4 ff3 fs0 fc2 sc0 ls0 ws0">
+                        u<span class="_ _2"></span>
+                        <span class="ff1 fc3">
+                            表达商业、“<span class="_ _0"></span>
+                            法律”关系<span class="_ _0"></span>
+                            的契约  
+                        </span>
+                    </div>
+                    <div class="t m0 x4 h1 y5 ff3 fs0 fc2 sc0 ls0 ws0">
+                        u<span class="_ _2"></span>
+                        <span class="ff1 fc3">
+                            为什么说是<span class="_ _0"></span>
+                            根本性质？
+                        </span>
+                    </div>
+                    <div class="t m0 x5 h2 y6 ff2 fs1 fc1 sc0 ls0 ws0">智能合约的根本性质</div>
+                </div>
+                <div class="pi" data-data='{"ctm":[1.422222,0.000000,0.000000,1.422222,0.000000,0.000000]}'></div>
+            </div>
+            <div id="pf3" class="pf w0 h0" data-page-no="3">
+                <div class="pc pc3 w0 h0">
+                    <img alt="慕课网" class="bi x0 y0 w0 h0" alt="" src="//file.mukewang.com/resource/408a617f4db618be8a6fd906d2926ac1/bg3.jpg"/>
+                    <div class="t m0 x6 h1 y7 ff3 fs0 fc2 sc0 ls0 ws0">
+                        u<span class="_ _2"></span>
+                        <span class="ff1 fc4">
+                            没有所谓并发<span class="_ _0"></span>
+                            问题！
+                        </span>
+                    </div>
+                    <div class="t m0 x7 h1 y8 ff3 fs0 fc2 sc0 ls0 ws0">
+                        u<span class="_ _2"></span>
+                        <span class="ff1 fc3">
+                            T<span class="_ _3"></span>
+                            ransation驱<span class="_ _0"></span>
+                            动的EVM
+                        </span>
+                    </div>
+                    <div class="t m0 x8 h2 y9 ff2 fs1 fc5 sc0 ls0 ws0">运行机制</div>
+                    <div class="t m0 x6 h1 ya ff3 fs0 fc2 sc0 ls0 ws0">
+                        u<span class="_ _2"></span>
+                        <span class="ff1 fc4">
+                            T<span class="_ _3"></span>
+                            ransaction的<span class="_ _0"></span>
+                            原子性与闪<span class="_ _0"></span>
+                            贷
+                        </span>
+                    </div>
+                </div>
+                <div class="pi" data-data='{"ctm":[1.422222,0.000000,0.000000,1.422222,0.000000,0.000000]}'></div>
+            </div>
+            <div id="pf4" class="pf w0 h0" data-page-no="4">
+                <div class="pc pc4 w0 h0">
+                    <img alt="慕课网" class="bi x0 y0 w0 h0" alt="" src="//file.mukewang.com/resource/408a617f4db618be8a6fd906d2926ac1/bg4.jpg"/>
+                    <div class="t m0 x9 h1 y1 ff1 fs0 fc0 sc0 ls0 ws0">
+                        初识contract<span class="_ _4"></span>
+                        Pr<span class="_ _0"></span>
+                        oduced By A<span class="_ _0"></span>
+                        dams
+                    </div>
+                    <div class="t m0 x2 h2 y2 ff2 fs1 fc1 sc0 ls0 ws0">web3根基初识-智能合约</div>
+                    <div class="t m0 x3 h2 yb ff2 fs1 fc2 sc0 ls0 ws0">合约示例</div>
+                </div>
+                <div class="pi" data-data='{"ctm":[1.422222,0.000000,0.000000,1.422222,0.000000,0.000000]}'></div>
+            </div>
+            <div id="pf5" class="pf w0 h0" data-page-no="5">
+                <div class="pc pc5 w0 h0">
+                    <img alt="慕课网" class="bi x0 y0 w0 h0" alt="" src="//file.mukewang.com/resource/408a617f4db618be8a6fd906d2926ac1/bg5.jpg"/>
+                    <div class="t m0 x4 h1 yc ff3 fs0 fc2 sc0 ls0 ws0">
+                        u<span class="_ _2"></span>
+                        <span class="ff1 fc3">
+                            一个合约小例<span class="_ _0"></span>
+                            子
+                        </span>
+                    </div>
+                    <div class="t m0 xa h2 y6 ff2 fs1 fc1 sc0 ls0 ws0">Hello，contract！</div>
+                    <div class="t m0 x4 h1 yd ff3 fs0 fc2 sc0 ls0 ws0">
+                        u<span class="_ _2"></span>
+                        <span class="ff1 fc3">
+                            Solidity IDE：R<span class="_ _5"></span>
+                            emix
+                        </span>
+                    </div>
+                </div>
+                <div class="pi" data-data='{"ctm":[1.422222,0.000000,0.000000,1.422222,0.000000,0.000000]}'></div>
+            </div>
+            <div id="pf6" class="pf w0 h0" data-page-no="6">
+                <div class="pc pc6 w0 h0">
+                    <img alt="慕课网" class="bi x0 y0 w0 h0" alt="" src="//file.mukewang.com/resource/408a617f4db618be8a6fd906d2926ac1/bg6.jpg"/>
+                    <div class="t m0 xb h1 y1 ff1 fs0 fc0 sc0 ls0 ws0">
+                        小结<span class="_ _6"></span>
+                        Pr<span class="_ _0"></span>
+                        oduced By A<span class="_ _0"></span>
+                        dams
+                    </div>
+                    <div class="t m0 x2 h2 y2 ff2 fs1 fc1 sc0 ls0 ws0">web3根基初识-智能合约</div>
+                    <div class="t m0 xc h2 yb ff2 fs1 fc2 sc0 ls0 ws0">小结</div>
+                </div>
+                <div class="pi" data-data='{"ctm":[1.422222,0.000000,0.000000,1.422222,0.000000,0.000000]}'></div>
+            </div>
+            <div id="pf7" class="pf w0 h0" data-page-no="7">
+                <div class="pc pc7 w0 h0">
+                    <img alt="慕课网" class="bi x0 y0 w0 h0" alt="" src="//file.mukewang.com/resource/408a617f4db618be8a6fd906d2926ac1/bg7.jpg"/>
+                    <div class="t m0 xd h2 y6 ff2 fs1 fc1 sc0 ls0 ws0">小结</div>
+                    <div class="t m0 xe h1 ye ff3 fs0 fc2 sc0 ls0 ws0">
+                        u<span class="_ _2"></span>
+                        <span class="ff1 fc3">
+                            注重<span class="_ _7"></span>
+                            理解<span class="_ _7"></span>
+                            语言<span class="_ _7"></span>
+                            知识<span class="_ _7"></span>
+                            技能<span class="_ _7"></span>
+                            的结<span class="_ _7"></span>
+                            构，<span class="_ _7"></span>
+                            而不<span class="_ _7"></span>
+                            是穷<span class="_ _7"></span>
+                            举细<span class="_ _7"></span>
+                            节（<span class="_ _7"></span>
+                            <span class="fc6">
+                                几条<span class="_ _7"></span>
+                                主<span class="_ _7"></span>
+                                线
+                            </span>
+                            ）<span class="_ _7"></span>
+                            ，
+                        </span>
+                    </div>
+                    <div class="t m0 xf h1 yf ff1 fs0 fc3 sc0 ls0 ws0">
+                        对其他语言中<span class="_ _0"></span>
+                        大家熟知的<span class="_ _0"></span>
+                        知识作简略<span class="_ _0"></span>
+                        处理
+                    </div>
+                    <div class="t m0 xe h1 y10 ff3 fs0 fc2 sc0 ls0 ws0">
+                        u<span class="_ _2"></span>
+                        <span class="ff1 fc3">
+                            机制：soli<span class="_ _0"></span>
+                            dity的学习中<span class="_ _0"></span>
+                            关注EVM技术<span class="_ _0"></span>
+                            内幕
+                        </span>
+                    </div>
+                    <div class="t m0 xe h1 y11 ff3 fs0 fc2 sc0 ls0 ws0">
+                        u<span class="_ _2"></span>
+                        <span class="ff1 fc3">
+                            性质：契约的<span class="_ _0"></span>
+                            观念
+                        </span>
+                    </div>
+                </div>
+                <div class="pi" data-data='{"ctm":[1.422222,0.000000,0.000000,1.422222,0.000000,0.000000]}'></div>
+            </div>
+            <div id="pf8" class="pf w0 h0" data-page-no="8">
+                <div class="pc pc8 w0 h0">
+                    <img alt="慕课网" class="bi x0 y0 w0 h0" alt="" src="//file.mukewang.com/resource/408a617f4db618be8a6fd906d2926ac1/bg8.jpg"/>
+                    <div class="t m0 x10 h2 y6 ff2 fs1 fc1 sc0 ls0 ws0">常用资料</div>
+                    <div class="t m0 x11 h4 y12 ff3 fs3 fc2 sc0 ls0 ws0">
+                        u<span class="_ _8"></span>
+                        <span class="ff1 fc3">
+                            Solidity: 
+                            <span class="fc7">
+                                h<span class="_ _7"></span>
+                                ttps://docs.so<span class="_ _7"></span>
+                                liditylang.org/en/v0.<span class="_ _7"></span>
+                                8.17/
+                            </span>
+                        </span>
+                    </div>
+                    <div class="t m0 x11 h4 y13 ff3 fs3 fc2 sc0 ls0 ws0">
+                        u<span class="_ _8"></span>
+                        <span class="ff1 fc7">
+                            R<span class="_ _0"></span>
+                            emix Online：
+                            <span class="ff2">
+                                h<span class="_ _7"></span>
+                                ttps://remix.et<span class="_ _7"></span>
+                                hereum.org/
+                            </span>
+                        </span>
+                    </div>
+                    <div class="t m0 x11 h4 y14 ff3 fs3 fc2 sc0 ls0 ws0">
+                        u<span class="_ _8"></span>
+                        <span class="ff1 fc3">
+                            R<span class="_ _0"></span>
+                            emix Desktop：
+                            <span class="fc7">
+                                https://g<span class="_ _7"></span>
+                                ithub.com/ethe<span class="_ _7"></span>
+                                r<span class="_ _0"></span>
+                                eum/remix-desktop/releases
+                            </span>
+                        </span>
+                    </div>
+                    <div class="t m0 x11 h4 y15 ff3 fs3 fc2 sc0 ls0 ws0">
+                        u<span class="_ _8"></span>
+                        <span class="ff1 fc3">
+                            R<span class="_ _0"></span>
+                            emix Doc: 
+                            <span class="fc7">
+                                http<span class="_ _7"></span>
+                                s://remix-ide.readthedocs.i<span class="_ _7"></span>
+                                o/en/latest/
+                            </span>
+                        </span>
+                    </div>
+                    <a class="l" href="https://docs.soliditylang.org/en/v0.8.17/" target="_blank">
+                        <div class="d m1" style="border-style:none;position:absolute;left:248.035556px;bottom:349.511111px;width:308.000000px;height:38.400000px;background-color:rgba(255,255,255,0.000001);"></div>
+                    </a>
+                    <a class="l" href="https://remix.ethereum.org/" target="_blank">
+                        <div class="d m1" style="border-style:none;position:absolute;left:116.622222px;bottom:294.897778px;width:374.300000px;height:38.400000px;background-color:rgba(255,255,255,0.000001);"></div>
+                    </a>
+                    <a class="l" href="https://github.com/ethereum/remix-desktop/releases" target="_blank">
+                        <div class="d m1" style="border-style:none;position:absolute;left:340.693333px;bottom:240.284444px;width:410.300000px;height:38.400000px;background-color:rgba(255,255,255,0.000001);"></div>
+                    </a>
+                    <a class="l" href="https://remix-ide.readthedocs.io/en/latest/" target="_blank">
+                        <div class="d m1" style="border-style:none;position:absolute;left:283.164444px;bottom:185.671111px;width:327.400000px;height:38.400000px;background-color:rgba(255,255,255,0.000001);"></div>
+                    </a>
+                </div>
+                <div class="pi" data-data='{"ctm":[1.422222,0.000000,0.000000,1.422222,0.000000,0.000000]}'></div>
+            </div>
+        </div>
+        <div class="loading-indicator">
+            <img alt="慕课网" alt="" src="//moco.imooc.com/static/base/images/logo-share.png"/>
+        </div>
+    </body>
+</html>
